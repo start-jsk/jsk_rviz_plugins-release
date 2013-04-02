@@ -23,7 +23,6 @@ namespace rviz
 namespace jsk_rviz_plugin
 {
 
-
 // Each instance of EffortVisual represents the visualization of a single
 // sensor_msgs::Effort message.  Currently it just shows an arrow with
 // the direction and magnitude of the acceleration vector, but could
