@@ -16,5 +16,5 @@ tracks:
     release_tag: null
     ros_distro: groovy
     vcs_type: svn
-    vcs_uri: https://jsk-ros-pkg.svn.sourceforge.net/svnroot/jsk-ros-pkg/trunk/jsk_rviz_plugins
+    vcs_uri: https://svn.code.sf.net/p/jsk-ros-pkg/code/trunk/jsk_rviz_plugins
     version: :{auto}
